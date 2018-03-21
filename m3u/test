@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png",Pasiones 
+http://142.0.43.4:25461/live/televall/02022018/177.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/100.png,AXN
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/index.m3u8
+#EXTINF:-1,Disney XD
+http://142.0.43.4:25461/live/televall/02022018/68.m3u8
+#EXTINF:-1,Disney XD
+http://142.0.43.4:25461/live/televall/02022018/68.m3u8
